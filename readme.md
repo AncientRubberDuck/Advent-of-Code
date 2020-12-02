@@ -14,3 +14,4 @@ My solutions for [Advent of Code](https://adventofcode.com/) challenge.
 | Day  | Part One | Part Two |
 |---|:---:|:---:|
 | ✔ [Day 1: Report Repair](https://adventofcode.com/2020/day/1) ([Solution](https://github.com/AncientRubberDuck/Advent-of-Code/tree/main/2020/day1))|⭐|⭐|
+| ✔ [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2) ([Solution](https://github.com/AncientRubberDuck/Advent-of-Code/tree/main/2020/day2))|⭐|⭐|
